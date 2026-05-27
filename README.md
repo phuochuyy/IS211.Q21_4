@@ -15,8 +15,6 @@ Dự án đáp ứng 3 nhóm yêu cầu chính:
 | Req [8] | Cài đặt SurrealDB, tạo schema NoSQL, seed dữ liệu mẫu |
 | Req [9] | Truy vấn phân tán trên 3 máy bằng Python middleware |
 | Req [10] | CRUD phân tán: máy này tạo/sửa/xóa dữ liệu trên máy khác |
-| Req [11] | Không thực hiện vì là phần bonus |
-
 ---
 
 ## 2. Mô hình hệ thống
