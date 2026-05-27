@@ -2,7 +2,6 @@
 
 Dự án này minh chứng mô hình **NoSQL phân tán 3 máy** sử dụng **SurrealDB + Python middleware + Surrealist UI** cho bài tập cơ sở dữ liệu phân tán.
 
-> Không làm phần bonus migration RDBMS → NoSQL.
 
 ---
 
